@@ -1,7 +1,7 @@
 Title: Comité de Participación Ciudadana del Sistema Anticorrupción del Estado de Quintana Roo
 Date: 2018-08-21 10:50
 Modified: 2018-08-21 11:00
-Tags: pelican, publishing
+Tags: quintana roo
 Slug: cpc-quintanaroo
 Authors: Edna Janet Martínez Calvillo
 Summary: Comité de Participación Ciudadana del Estado de Quintana Roo
