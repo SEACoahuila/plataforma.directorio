@@ -84,6 +84,14 @@
         </div>
         <div class="clear"></div>
     </div>
+    <!-- Footer -->
+    <div>
+        <ul class="list-unstyled mb-0">
+        {% for tag, null in tags|sort %}
+            <li><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a></li>
+        {% endfor %}
+        </ul>
+    </div>
 {% include 'analytics.html' %}
 </body>
 </html>
