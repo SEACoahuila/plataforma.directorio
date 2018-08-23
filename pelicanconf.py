@@ -44,7 +44,7 @@ DEFAULT_PAGINATION = False
 
 #Borra toda la salida
 #Borra directorios ocultos en output como .git, mantenga en falso
-DELETE_OUTPUT_DIRECTORY= True
+DELETE_OUTPUT_DIRECTORY= False
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
