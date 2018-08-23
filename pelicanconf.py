@@ -46,5 +46,5 @@ DEFAULT_PAGINATION = False
 #Borra directorios ocultos en output como .git, mantenga en falso
 DELETE_OUTPUT_DIRECTORY= False
 
-# Uncomment following line if you want document-relative URLs when developing
+# Para desarrollo se recomienda usar URLs relativos, debe ser Verdadero
 RELATIVE_URLS = True

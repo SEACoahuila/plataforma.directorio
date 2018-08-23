@@ -10,15 +10,12 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = ''
-RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
-#DELETE_OUTPUT_DIRECTORY = False
+# Para publicar en la web, es una rama del dominio
+SITEURL = 'http://www.seacoahuila.org.mx/directorio'
 
-# Following items are often useful when publishing
-
-#DISQUS_SITENAME = ""
-#GOOGLE_ANALYTICS = ""
+# Usar URLs absolutos, debe ser Falso
+RELATIVE_URLS = False
