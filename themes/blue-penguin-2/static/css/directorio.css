@@ -1,0 +1,40 @@
+/*
+ * directorio.css
+ *
+ * 
+ */
+
+/* Global */
+body       { font-family:'Roboto','Helvetica Neue',Arial,sans-serif; font-weight:300; }
+h1         { font-family:'Roboto','Helvetica Neue',Arial,sans-serif; font-weight:700; color: #ffffff; }
+h2         { font-family:'Roboto','Helvetica Neue',Arial,sans-serif; font-weight:500; }
+a          { color:#224422; font-weight:500; }
+a:hover,
+a:focus    { color:#882222; text-decoration:underline; }
+a:active,
+a:visited  { color:#224422; }
+strong     { font-family:'Roboto','Helvetica Neue',Arial,sans-serif; font-weight:500; }
+blockquote { font-family:'Roboto','Helvetica Neue',Arial,sans-serif; font-weight:300; font-size:1.5em; }
+
+
+
+/* Footer */
+.footer-fa            { font-size:3em; }
+.footer-text          { color:#AAAAAA; }
+a.footer-link         { color:#DDDDDD; }
+a.footer-link:hover,
+a.footer-link:focus   { color:#FFFFFF; }
+a.footer-link:active,
+a.footer-link:visited { color:#DDDDDD; }
+
+/* Header */
+.header_box        { background-color:#c7c7c7; }
+.header_box        { min-height:30px; }
+.header_box        { text-align:middle; }
+
+/* Imagen */
+div.media-left     { float: left; }
+div.limpiar-float  { clear: left; }
+.media-object      { margin:8px;}
+ul.list-unstyled   { text-align:center; }
+li                 { list-style-position: inside; }

@@ -1,12 +1,14 @@
 Title: Consejo de Participación Ciudadana del Estado de Coahuila de Zaragoza
-Date: 2018-08-21 10:02
-Modified: 2018-08-21 11:00
-Tags: coahuila
 Slug: cpc-coahuila
-Authors: Edna Janet Martínez Calvillo
 Summary: Consejo de Participación Ciudadana del Estado de Coahuila
+Tags: Coahuila de Zaragoza
+Date: 2018-08-21 10:02
+Modified: 2018-08-23 12:00
+Image: preview.jpg
 
-<http://www.seacoahuila.org.mx/cpc/institucional/que-es-el-cpc/>
+<img class="img-fluid" src="coahuila.jpg" alt="CPC Coahuila">
+
+<http://www.cpccoahuila.org.mx/>
 
 Cuenta de Twitter
 

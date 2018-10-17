@@ -1,10 +1,12 @@
 Title: Comité de Participación Ciudadana del Sistema Estatal Anticorrupción de Zacatecas
-Date: 2018-08-21 11:20
-Modified: 2018-08-21 12:00
-Tags: zacatecas
 Slug: cpc-zacatecas
-Authors: Edna Janet Martínez Calvillo
 Summary: Comité de Participación Ciudadana del Estado de Zacatecas
+Tags: Zacatecas
+Date: 2018-08-21 11:20
+Modified: 2018-08-23 12:40
+Image: preview.jpg
+
+<img class="img-fluid" src="zacatecas.jpg" alt="CPC Zacatecas">
 
 <http://cpczacatecas.org/>
 

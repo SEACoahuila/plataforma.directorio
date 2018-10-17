@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'Edna Janet Martínez Calvillo'
+AUTHOR = 'SEA Coahuila'
 SITENAME = 'Sitios Web SEA y CPC'
 SITEURL = ''
 

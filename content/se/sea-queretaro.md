@@ -1,10 +1,12 @@
-Title: Sistema Estatal Anticorrupción Queretaro
-Date: 2018-08-20 11:55
-Modified: 2018-08-20 13:00
-Tags: queretaro
+Title: Sistema Estatal Anticorrupción Querétaro
 Slug: sea-queretaro
-Authors: Edna Janet Martínez Calvillo
-Summary: Este es el sitio web de la Sistema Estatal Anticorrupción de Queretaro
+Summary: Este es el sitio web de la Sistema Estatal Anticorrupción de Querétaro
+Tags: Querétaro
+Date: 2018-08-20 11:55
+Modified: 2018-08-23 12:45
+Image: preview.jpg
+
+<img class="img-fluid" src="seaqueretaro.jpg" alt="SE Querétaro">
 
 <http://www.seaqueretaro.org/>
 

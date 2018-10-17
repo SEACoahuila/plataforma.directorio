@@ -1,10 +1,12 @@
 Title: Comité de Participación Ciudadana del Sistema Estatal Anticorrupción del Estado de México
-Date: 2018-08-21 10:35
-Modified: 2018-08-21 11:00
-Tags: edomex
 Slug: cpc-edomex
-Authors: Edna Janet Martínez Calvillo
 Summary: Comité de Participación Ciudadana del Estado de México
+Tags: Estado de México
+Date: 2018-08-21 10:35
+Modified: 2018-08-23 12:00
+Image: preview.jpg
+
+<img class="img-fluid" src="edomex.jpg" alt="CPC Estado de México">
 
 <http://cpcedomex.org.mx/>
 
