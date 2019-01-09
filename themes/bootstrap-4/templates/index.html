@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block title %}{{ SITENAME }}{% endblock %}
+
+{% block content %}
+{% if content_title %}
+			<h1>{% block content_title %}{% endblock %}</h1>
+{% endif %}
+{% if articles %}
+			<div class="album py-5 bg-light">
+				<div class="container">
+					<div class="row">
+{% for article in articles_page.object_list %}
+		        <div class="col-md-4">
+		          <div class="card mb-4 shadow-sm">
+		          	<span class="text-center">
+			          	<a href="{{SITEURL}}/{{article.url}}">
+			            	<img src="{{SITEURL}}/{{article.url}}/{{article.image}}" alt="Imagen previa">
+			            </a>
+		            </span>
+		            <div class="card-body">
+		              <p class="card-text">{{ article.title }}</p>
+		            </div>
+		          </div>
+		        </div>
+{% endfor %}
+					</div>
+				</div>
+			</div>
+{% else %}
+			<p>No hay artículos.</p>
+{% endif %}
+{% endblock %}

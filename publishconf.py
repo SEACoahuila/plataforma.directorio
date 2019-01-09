@@ -11,11 +11,19 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+# Feed generation
+FEED_ALL_ATOM = None
+FEED_ALL_RSS = None
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
+CATEGORY_FEED_ATOM = None
+CATEGORY_FEED_RSS = None
+TAG_FEED_ATOM = None
+TAG_FEED_RSS = None
+TRANSLATION_FEED_ATOM = None
+TRANSLATION_FEED_RSS = None
 
-# Para publicar en la web, es una rama del dominio
-SITEURL = 'http://www.seacoahuila.org.mx/directorio'
-
-# Usar URLs absolutos, debe ser Falso
+# Para publicar, los URLs son absolutos
 RELATIVE_URLS = False
+LOAD_CONTENT_CACHE = False
+DELETE_OUTPUT_DIRECTORY = False
