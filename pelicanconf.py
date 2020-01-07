@@ -3,8 +3,8 @@
 from __future__ import unicode_literals
 
 # Sitio web
-SITEURL = 'http://www.seacoahuila.org.mx/directorio'
-SITENAME = 'Directorio SEA'
+SITENAME = 'Directorio de Sistemas Estatales Anticorrupción'
+SITEURL = 'https://www.seacoahuila.org.mx/directorio'
 SITEDESCRIPTION = 'En este micrositio web se publica información sobre los Sistemas Estatales Anticorrupción de México.'
 
 # Autor
@@ -40,6 +40,18 @@ RELATIVE_URLS = True
 # Para desarrollo, se desactiva la paginacion
 DEFAULT_PAGINATION = False
 
+# Para desarrollo, NO hay cargas desde Internet
+USE_REMOTE_SERVICES = False
+
+# Para desarrollo, NO borrar todo output
+DELETE_OUTPUT_DIRECTORY = False
+
+# No eliminar de output los siguientes directorios y archivos
+OUTPUT_RETENTION = ['.git', '.gitignore']
+
+# Siempre aprovechar lo que se tenga en caché
+LOAD_CONTENT_CACHE = True
+
 # Para desarrollo, se desactiva la generacion de feeds
 FEED_ALL_ATOM = None
 FEED_ALL_RSS = None
@@ -51,19 +63,3 @@ TAG_FEED_ATOM = None
 TAG_FEED_RSS = None
 TRANSLATION_FEED_ATOM = None
 TRANSLATION_FEED_RSS = None
-
-# Para desarrollo, recomendado mantener en falso
-DELETE_OUTPUT_DIRECTORY = True
-LOAD_CONTENT_CACHE = True
-OUTPUT_RETENTION = ['.git', '.gitignore']
-USE_REMOTE_SERVICES = False
-
-# Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
-
-# Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)

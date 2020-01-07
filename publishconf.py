@@ -10,8 +10,8 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-
 # Feed generation
+FEED_DOMAIN = SITEURL
 FEED_ALL_ATOM = None
 FEED_ALL_RSS = None
 AUTHOR_FEED_ATOM = None
@@ -23,7 +23,7 @@ TAG_FEED_RSS = None
 TRANSLATION_FEED_ATOM = None
 TRANSLATION_FEED_RSS = None
 
-# Para publicar, los URLs son absolutos
+# Para publicar
 RELATIVE_URLS = False
-LOAD_CONTENT_CACHE = False
-DELETE_OUTPUT_DIRECTORY = False
+LOAD_CONTENT_CACHE = True
+DELETE_OUTPUT_DIRECTORY = True
