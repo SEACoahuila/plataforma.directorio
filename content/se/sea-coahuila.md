@@ -1,14 +1,15 @@
-Title: Secretaria Ejecutiva del Sistema Estatal Anticorrupción del Estado de Coahuila
+Title: Secretaría Ejecutiva del Sistema Estatal Anticorrupción del Estado de Coahuila
 Slug: sea-coahuila
-Summary: Secretaria Ejecutiva del Sistema Estatal Anticorrupción del Estado de Coahuila
+Summary: Secretaría Ejecutiva del Sistema Estatal Anticorrupción del Estado de Coahuila
 Tags: Coahuila de Zaragoza
 Date: 2018-08-20 11:55
 Modified: 2018-08-23 12:45
 Image: preview.jpg
 
+
 <img class="img-fluid" src="seacoahuila.jpg" alt="SE Coahuila">
 
-<http://www.seacoahuila.org.mx/secretaria-ejecutiva/institucional/que-es-la-secretaria-ejecutiva/>
+<https://www.seacoahuila.org.mx/>
 
 Cuenta oficial de Twitter
 

@@ -8,7 +8,7 @@ Image: preview.jpg
 
 <img class="img-fluid" src="coahuila.jpg" alt="CPC Coahuila">
 
-<http://www.cpccoahuila.org.mx/>
+<https://www.cpccoahuila.org.mx/>
 
 Cuenta de Twitter
 

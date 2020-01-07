@@ -18,7 +18,7 @@ ARTICLE_PATHS = ['cpc', 'se']
 
 # Directorios y archivos que son fijos
 # Agregue también los directorios que tienen archivos para artículos y páginas
-STATIC_PATHS = ['favicon.ico', 'cpc', 'se']
+STATIC_PATHS = ['favicon.ico', 'cpc', 'se', 'robots.txt']
 
 # Los artículos van en directorios por categoria/titulo/
 ARTICLE_URL = '{category}/{slug}/'

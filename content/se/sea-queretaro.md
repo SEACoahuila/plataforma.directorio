@@ -6,6 +6,7 @@ Date: 2018-08-20 11:55
 Modified: 2018-08-23 12:45
 Image: preview.jpg
 
+
 <img class="img-fluid" src="seaqueretaro.jpg" alt="SE Querétaro">
 
 <http://www.seaqueretaro.org/>
